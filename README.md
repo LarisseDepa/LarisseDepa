@@ -1,6 +1,6 @@
 Olá!  👋
 
-- 📚 No momento estou aprendendo:
+- 📚 
 
  ![MySQL](https://img.shields.io/badge/-MySQL-034959?style=flat-square&logo=mysql&logoColor=white) ![PYTHON](https://img.shields.io/badge/-Python-034959?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-034959?style=flat-square&logo=R&logoColor=white) ![VSCODE](https://img.shields.io/badge/-VScode-034959?style=flat-square&logo=visual-studio&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-ubuntu-034959?style=flat-square&logo=ubuntu&logoColor=white)       
 
