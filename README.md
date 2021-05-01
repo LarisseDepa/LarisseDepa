@@ -8,7 +8,6 @@ Olá!  👋
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=LarisseDepa.LarisseDepa)
 
 
 
