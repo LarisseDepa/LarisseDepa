@@ -1,7 +1,7 @@
 #### Olá! 👋
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LarisseDepa)](https://github.com/LarisseDepa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LarisseDepa)](https://github.com/LarisseDepa/github-readme-stats)
 
 
 
